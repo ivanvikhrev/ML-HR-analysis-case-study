@@ -1,4 +1,5 @@
 # ML-HR-analysis-case-study
-Репозиторий для практических работ по курсу "Машинное обучение"
-Данные:
+Practical work on the course "Machine Learning".
+
+Data:
 https://www.kaggle.com/datasets/shivan118/hranalysis?resource=download
